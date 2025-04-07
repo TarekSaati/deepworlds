@@ -1,0 +1,95 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tsampazk",
+      "name": "Kostas Tsampazis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27914645?v=4",
+      "profile": "https://github.com/tsampazk",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "question",
+        "review"
+      ]
+    },
+    {
+      "login": "ManosMagnus",
+      "name": "Manos Kirtas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10010230?v=4",
+      "profile": "http://eakirtas.webpages.auth.gr/",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "question",
+        "review"
+      ]
+    },
+    {
+      "login": "rohit-kumar-j",
+      "name": "RKJ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37873142?v=4",
+      "profile": "https://github.com/rohit-kumar-j",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "wakeupppp",
+      "name": "wakeupppp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39750646?v=4",
+      "profile": "https://github.com/wakeupppp",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "KelvinYang0320",
+      "name": "Jiun Kai Yang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49781698?v=4",
+      "profile": "https://www.linkedin.com/in/kelvin-yang-b7b508198/",
+      "contributions": [
+        "code",
+        "doc",
+        "example",
+        "ideas",
+        "review",
+        "maintenance",
+        "projectManagement",
+        "bug",
+        "question"
+      ]
+    },
+    {
+      "login": "NickKok",
+      "name": "Nikolaos Kokkinis-Ntrenis",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8222731?v=4",
+      "profile": "https://nickkok.github.io/my-website/",
+      "contributions": [
+        "code",
+        "doc",
+        "example"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "deepworlds",
+  "projectOwner": "aidudezzz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
